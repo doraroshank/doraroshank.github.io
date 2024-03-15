@@ -1,4 +1,4 @@
-# rkd
+### This is my Personal Website
 
-Website for Roshan Kumar Dora
+Website of Roshan Kumar Dora
 (Under Construction)
