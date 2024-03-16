@@ -5,7 +5,7 @@ layout: page
 # About
 
 	
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image](https://github.com/doraroshank/doraroshank.github.io/blob/0fda68b824e9408732a8224f27c2171388038221/homepage.jpg)
 
 My name is Aditya Vijaykumar.
 
