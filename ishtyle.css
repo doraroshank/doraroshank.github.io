@@ -19,8 +19,7 @@ body {
 
 .transbox{
 	margin:  auto;
-	background-color: black;
-	opacity: 1;
+	background-color: rgba(0,0,0,0.5);
 }
 
 .container {
