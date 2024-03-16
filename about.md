@@ -1,10 +1,7 @@
----
-title: About
-layout: page
----
+
 # About
 
-<img src="homepage.jpg" alt="profile" width="300" height="200">
+<img src="homepage.jpg" alt="profile" width="300" height="300">
 
 My name is Roshan Kumar Dora.
 
