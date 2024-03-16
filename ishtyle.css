@@ -24,11 +24,6 @@ body {
 	opacity: 0.6;
 }
 
-.tlayer {
- margin: auto;
-  background-color: rgba(0, 0, 0, 0.5); 
-}
-
 .container {
 	margin: auto;
  	display: table;
