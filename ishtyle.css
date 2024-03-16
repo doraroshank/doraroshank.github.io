@@ -10,11 +10,28 @@ body {
   font-size: 16px;
 }
 
-.background {
+/*.background {
   background-image: url('orion-home.jpg');
   background-position: center;
   background-size: cover;
   overflow: hidden;
+}*/
+.background {
+  position: relative; /* Ensure the .background container is positioned */
+  background-image: url('orion-home.jpg');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.background::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust the last value for opacity */
 }
 
 .transbox{
