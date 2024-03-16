@@ -27,10 +27,6 @@ body {
   overflow: hidden;
 }
 
-.background {
-  position: absolute;
-}
-
 .transbox{
 	margin:  auto;
 	background-color: black;
