@@ -17,6 +17,13 @@ body {
   overflow: hidden;
 }
 
+.transbox{
+	margin:  auto;
+	background-color: black;
+	background-position: center;
+	opacity: 0.6;
+}
+
 .container {
 	margin: auto;
  	display: table;
