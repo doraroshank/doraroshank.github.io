@@ -4,17 +4,14 @@ layout: page
 ---
 # About
 
-	
-![Profile Image](https://github.com/doraroshank/doraroshank.github.io/blob/0fda68b824e9408732a8224f27c2171388038221/homepage.jpg)
+<img src="homepage.jpg" alt="profile" width="300" height="200">
 
-My name is Aditya Vijaykumar.
+My name is Roshan Kumar Dora.
 
-- I was born in **Perinthalmanna, Kerala**, but lived in **Pune, Maharashtra** till I went to college.
+- I was born in **Berhampur, Odisha**, but lived in **Talcher, Odisha** till the end of my schooling.
 
-- I currently reside in the city of **Bengaluru, Karnataka**, where I am pursuing my PhD in Physics at the [International Centre for Theoretical Sciences](https://icts.res.in/) (ICTS-TIFR) in the [Astrophysical Relativity](https://www.icts.res.in/research/astrorel) group. If you are ever in Bengaluru and want to break away from the hustle and bustle of the city, I suggest you visit our campus to enjoy our hospitality and also learn about some interesting science being done. ICTS also has a plethora of [public events](https://icts.res.in/outreach) which you could be interested in.
+- I am currently residing in the city of **Bhopal, Madhya Pradesh**, where I am pursuing my Bachelor of Science-Master of Science in Physics at the [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in/) (IISER-B).
 
-- I was an undergraduate student at **Birla Institute of Technology and Science (BITS), Pilani**, where I had **Physics** and **Mechanical Engineering** as my majors. 
+- I have a range of interests in Physics lensed around Astronomy and Instrumentation, and currently I am interested in Gravitational Waves and Detector Instrumentation of Future Terrestrial Laser Interferometers.
 
-- I work on various physics and astrophysics aspects of gravitational waves. My work involves both theory and computation, as well as an understanding of experimental data from gravitational-wave detectors. More information about my research can be found [here](https://adivijaykumar.github.io/research/).
-
-- Apart from academic research, I also direct and act in stage-theatre productions with the theatre outfit StageCraft ([Facebook](https://www.facebook.com/stagecraftncbs/) [Instagram](https://www.facebook.com/stagecraftncbs/)). I also run a weekly podcast called [Cut to Scene](https://linktr.ee/cuttoscene) where a friend and I discuss films. Check my [non-academic page](https://adivijaykumar.github.io/nonacademic/) for more.
+- Apart from Academics, I am greatly interested in Music 🎼 in genres like Rock, Indie Pop, Indian Classical Music and my soul favourite, Carnatic Music. Also, I am an Av-Geek(someone who is fond of Aviation 🛫) and I love learning about flight dynamics and flight controls. 
